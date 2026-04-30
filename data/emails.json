@@ -1,0 +1,14 @@
+[
+  {
+    "from": "alice@example.com",
+    "subject": "项目更新",
+    "body": "请确认设计文档",
+    "date": "2026-04-30"
+  },
+  {
+    "from": "bob@example.com",
+    "subject": "会议邀请",
+    "body": "周五讨论 OKR",
+    "date": "2026-05-01"
+  }
+]
